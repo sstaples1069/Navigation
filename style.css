@@ -22,7 +22,7 @@ body {
     justify-content: center;
   }
   
-  header nav ul {
+  #menu {
     display: flex;
     padding-left: 0;
     list-style: none;
